@@ -1,4 +1,7 @@
 # -*- coding: utf-8 -*- 
+# NOTE !!
+# Due to Jira API change this file isn't working 
+# instead, refer to 'getJiraIssueProductivityAnalysis.py'
 
 from tkinter import filedialog
 import openpyxl
